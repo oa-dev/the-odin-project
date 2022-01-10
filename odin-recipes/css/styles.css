@@ -1,3 +1,37 @@
 body {
   background-color: #f0fcff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img {
+  height: auto;
+  width: 400px;
+}
+
+ol li {
+  margin-top: 20px;
+}
+
+ul p,
+ol p {
+  font-weight: 800;
+}
+
+p,
+ul li,
+ol li {
+  font-size: 22px;
+}
+
+.reference {
+  font-size: 15px;
 }
